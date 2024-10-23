@@ -14,10 +14,10 @@ global.versi = '1.1.'
 global.keyopenai = "XlmmVpWzu6r2jRu" //masukkan apikey kamu 
 global.btz = 'masukkan apikey mu di sini'
 //===============SETTING MENU==================\\
-global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
+global.thumbnail = fs.readFileSync("./0/Download/thumb.jpg")
 global.ig = '--'
-global.yt = 'Tan'
-global.ttowner = '@Wayss911'
+global.yt = 'KelinciMaut'
+global.ttowner = '@wayss687'
 global.ownername = '@Lucy'
 global.owner = ['6288809678837'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
 global.ownernomer = '6288809678837'
@@ -32,7 +32,7 @@ global.andana = '' // KOSONG KAN JIKA TIDAK ADA
 global.angopay = '' // KOSONG KAN JIKA TIDAK ADA
 global.anovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
-global.botname = "OrNamenv2"
+global.botname = "MobEveryone V1"
 global.ownernumber = '6288809678837'
 global.botnumber = '6283862433797'
 global.ownername = '@Lucy'
@@ -40,10 +40,10 @@ global.ownerNumber = ["6288809678837@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
 global.gris = '`'
-global.wagc = "https://chat.whatsapp.com/DuolGpi5CIWDR8dYO6E1pC"
-global.saluran = "https://whatsapp.com/channel/0029VaTck0W6GcGMwiq4tQ3k"
+global.wagc = "https://chat.whatsapp.com/KDnGPW5y2XEDnSO0OGiwsS"
+global.saluran = "https://whatsapp.com/channel/0029VanLZh41NCrLuZRJ6G47"
 global.themeemoji = '🪀'
-global.wm = "OrNamenv2 | 6288809678837"
+global.wm = "MobEveryone V1 | 6288809678837"
 global.botscript = 'Ngk ada wle😂' //script link
 global.packname = "Sticker By"
 global.author = "\n\n\n\n\nCreate by Tv2\nNo hape/wa : 6288809678837"
@@ -190,7 +190,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-wait: 'Shizuka-Md | JANGAN SPAM',
+wait: 'MobEveryone V1 | Mau Mati Kapan Lu?',
    success: "Sukses",
    on: "Sudah Aktif", 
    off: "Sudah Off",
